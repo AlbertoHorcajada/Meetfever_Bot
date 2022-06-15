@@ -62,6 +62,8 @@ def dondeDescargarAplicacion():
 def UrlDesktop():
     mensaje = "El enlace a seguir para usar la aplicación web es el siguiente:"
     mensaje += "\n     https://meetfever.eu/app/login"
+    mensaje += "\n Si deseas descargarte la aplicación Desktop pulsa el siguiente enlace:"
+    mensaje += "\n https://drive.google.com/file/d/1g9Uqg76MEvCboUT02jjFpHbe-XqOZxXH/view?usp=sharing"
     mensaje += "\nEspero haberte ayudado y gracias por usar MeetFever!"
     return mensaje
 
